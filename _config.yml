@@ -1,1 +1,26 @@
 theme: jekyll-theme-cayman
+<!DOCTYPE html>
+<head>
+  <meta charset ="UTF-8">
+  <title>my first page</title>
+  </head>
+  
+  <body>
+
+  <table border="5"><tr><th>MY first table</th></tr>
+		<tr><td>ONE</td></tr>
+		<tr><td>TWO</td></tr>
+		<tr><td>THREE</td></tr>
+								
+								
+								
+								</table>
+								
+<p1>this is may be my main code</p1></main>
+ 
+ <footer>
+  <p2>it is really empty??</p2>
+  </footer>
+  
+  
+  </body> 
